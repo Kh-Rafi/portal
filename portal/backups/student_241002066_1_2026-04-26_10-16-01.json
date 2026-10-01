@@ -1,0 +1,23 @@
+{
+    "id": "1",
+    "university_id": "241002066",
+    "name": "Redoy khan Redu",
+    "department": "cse",
+    "father_name": "ismail",
+    "mother_name": "kajoly",
+    "dob": "1111-11-11",
+    "blood_group": "B+",
+    "email": "reduredoykhan@gmail.com",
+    "phone": "017*******",
+    "present_address": "tt",
+    "permanent_address": "tt",
+    "guardian_name": "ismail",
+    "guardian_phone": "017*****",
+    "hostel_name": "Hostel_A",
+    "floor_no": "1",
+    "room_no": "202",
+    "seat_no": "1",
+    "student_photo": "uploads\/1777135779_Screenshot (211).png",
+    "id_card_photo": "uploads\/1777135779_Screenshot (212).png",
+    "password": "8f60c8102d29fcd525162d02eed4566b"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "5",
+    "university_id": "241002077",
+    "name": "o",
+    "department": "cse",
+    "father_name": "p",
+    "mother_name": "p",
+    "dob": "2002-12-12",
+    "blood_group": "B+",
+    "email": "ddd@gmail.com",
+    "phone": "017*******",
+    "present_address": "hh",
+    "permanent_address": "kk",
+    "guardian_name": "p",
+    "guardian_phone": "017*****",
+    "hostel_name": "Hostel_A",
+    "floor_no": "3",
+    "room_no": "2",
+    "seat_no": "1",
+    "student_photo": "uploads\/1777187398_Screenshot (218).png",
+    "id_card_photo": "uploads\/1777187398_Screenshot (221).png",
+    "password": "03d32ced79eb05fbf8498bce991d9cd0"
+}
